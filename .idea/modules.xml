@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2024-2025.iml" filepath="$PROJECT_DIR$/2024-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ceges autak/Ceges autak.iml" filepath="$PROJECT_DIR$/Ceges autak/Ceges autak.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gyakorlas_ArmstrongSzam/Gyakorlas_ArmstrongSzam.iml" filepath="$PROJECT_DIR$/Gyakorlas_ArmstrongSzam/Gyakorlas_ArmstrongSzam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gyakorlas_Fibonacci/Gyakorlas_Fibonacci.iml" filepath="$PROJECT_DIR$/Gyakorlas_Fibonacci/Gyakorlas_Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gyakorlas_PrimNyeremenyjatek/Gyakorlas_PrimNyeremenyjatek.iml" filepath="$PROJECT_DIR$/Gyakorlas_PrimNyeremenyjatek/Gyakorlas_PrimNyeremenyjatek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meteorologiai_jelentes/Meteorologiai_jelentes.iml" filepath="$PROJECT_DIR$/Meteorologiai_jelentes/Meteorologiai_jelentes.iml" />
       <module fileurl="file://$PROJECT_DIR$/epitmenyado/epitmenyado.iml" filepath="$PROJECT_DIR$/epitmenyado/epitmenyado.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
     </modules>
